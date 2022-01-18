@@ -27,7 +27,7 @@ Up vote/down vote : non validé.
 Commenter un lien : non validé.
  
 
-------------------
+
 src/views/index.jade: la page d'accueil(Home page).
 src/views/log-in.jade: la page d'Authentification.
 src/views/sign-up.jade: la page d'Inscription.
