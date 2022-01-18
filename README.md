@@ -27,10 +27,15 @@ Up vote/down vote : non validé.
 Commenter un lien : non validé.
  
 
-
+------------------
 src/views/index.jade: la page d'accueil(Home page).
+
 src/views/log-in.jade: la page d'Authentification.
+
 src/views/sign-up.jade: la page d'Inscription.
+
 src/views/user.jade: quand vous consultez votre profil ou le profil d'un autre utilisateur, cette page affiche l'historique de publication de ce profil. 
+
 src/about.html: contient des informations sur l'équipe.
+
 src/help.html: page d'aide en cas d'un problème. Cette page est accessible même si l’utilisateur n’est pas authentifié.
